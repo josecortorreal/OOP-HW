@@ -15,5 +15,11 @@
   "bugs": {
     "url": "https://github.com/josecortorreal/OOP-HW/issues"
   },
-  "homepage": "https://github.com/josecortorreal/OOP-HW#readme"
+  "homepage": "https://github.com/josecortorreal/OOP-HW#readme",
+  "devDependencies": {
+    "jest": "^29.5.0"
+  },
+  "dependencies": {
+    "svg.js": "^2.7.1"
+  }
 }
